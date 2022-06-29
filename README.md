@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/geoffreynjihi10" target="blank"><img src="https://img.shields.io/twitter/follow/geoffreynjihi10?logo=twitter&style=for-the-badge" alt="geoffreynjihi10" /></a> </p>
 
-- 🔭 I’m currently working on **eCommerce Store**
+- 🔭 I’m currently working on an **eCommerce Store**
 
 - 🌱 I’m currently learning **React, Ruby**
 
