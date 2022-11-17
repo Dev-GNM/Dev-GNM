@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on my **personal blog using react**
 
-- 🌱 I’m currently learning **React, Ruby**
+- 🌱 I’m currently learning **TailwindCSS**
 
 - 👯 I’m looking to collaborate on **Online Car Seller Website**
 
-- 💬 Ask me about **Vue, Python**
+- 💬 Ask me about **Ruby on Rails**
 
 - 📫 How to reach me **geoffreynjihia15@gmail.com**
 
