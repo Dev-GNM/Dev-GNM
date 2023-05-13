@@ -9,17 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/geoffreynjihi10" target="blank"><img src="https://img.shields.io/twitter/follow/geoffreynjihi10?logo=twitter&style=for-the-badge" alt="geoffreynjihi10" /></a> </p>
 
-- 🔭 I’m currently working on my **personal blog using react**
-
-- 🌱 I’m currently learning **TailwindCSS**
-
-- 👯 I’m looking to collaborate on **Online Car Seller Website**
-
-- 💬 Ask me about **Ruby on Rails**
-
 - 📫 How to reach me **geoffreynjihia15@gmail.com**
-
-- ⚡ Fun fact **I am a footballer and a Boxer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
